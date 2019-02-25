@@ -24,6 +24,10 @@ h2 {
   float: left;
 }
 
+.hidden {
+  visibility: hidden;
+}
+
 /* Vertical */
 
 .vertical .progress-bar {
