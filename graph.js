@@ -9,8 +9,7 @@ $(document).ready(function () {
     });
   });
 });
-})(jQuery); 
-
+});
 $(document).ready(function () {
   $('.vertical .progress-fill span').each(function(){
     var percent = $(this).html();
