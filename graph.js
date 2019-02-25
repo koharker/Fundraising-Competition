@@ -1,3 +1,5 @@
+function ($) {};
+
 $(document).ready(function () {
   $('.vertical .progress-fill span').each(function(){
     var percent = $(this).html();
