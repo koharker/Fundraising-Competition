@@ -6,5 +6,4 @@ document('.vertical .progress-fill span').each(function(){
       'top' : pTop
     });
   });
-});
 
