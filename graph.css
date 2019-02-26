@@ -16,7 +16,8 @@ h2 {
 }
 
 .container {
-  width: 500px;
+  width: 90%;
+  min-width: 300px;
   margin: 20px;
   background: #fff;
   padding: 20px;
