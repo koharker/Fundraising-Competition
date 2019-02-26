@@ -28,6 +28,17 @@ h2 {
   display: none;
 }
 
+.progress-container {
+  height: 350px;
+  width: 40px;
+  float: left;
+  margin-right: 25px;
+  font-family: "Lato","Verdana",sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+
 /* Vertical */
 
 .vertical .progress-bar {
