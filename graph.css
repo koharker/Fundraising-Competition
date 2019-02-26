@@ -7,18 +7,19 @@ body {
 }
 
 h2 {
-  margin: 0 0 20px 0;
+  margin: 0 0 15px 0;
   padding: 0 0 5px 0;
   border-bottom: 1px solid #999;
   font-family: sans-serif;
   font-weight: normal;
+  font-size: 20;
   color: #333;
 }
 
 .container {
   width: 90%;
-  min-width: 300px;
-  margin: 15px;
+  min-width: 265px;
+  margin: 8px;
   background: #fff;
   padding: 15px;
   overflow: hidden;
